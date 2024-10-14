@@ -1,7 +1,7 @@
 # This project was written using the React framework 
 中文版说明在README_CN.md中
 
-You can access this [demonstration link](http://101.132.112.146：3000 )To view the effect, click on the gray part to return 
+You can access this [demonstration link](http://101.132.112.146:3000 )To view the effect, click on the gray part to return 
 I really like GROWLANSER, so I tried to replicate the UI menu animation of this game on the web. 
 This is my second time publishing this project because I misspelled the warehouse name the first time.
 
